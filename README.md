@@ -9,3 +9,4 @@ Gain confidence using version control tools
 Described how to edit files directly on GitHub
 Added notes on using terminal commands for commits
 Listed common Git commands for practice
+Completed all 10 commits successfully
