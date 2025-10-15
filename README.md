@@ -4,3 +4,4 @@ Initialized the project and added a README file
 Added project description and purpose
 Noted steps for practicing Git workflow
 Added notes on pushing commits to GitHub
+Included reminder about using meaningful commit messages
