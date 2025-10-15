@@ -6,3 +6,4 @@ Noted steps for practicing Git workflow
 Added notes on pushing commits to GitHub
 Included reminder about using meaningful commit messages
 Gain confidence using version control tools
+Described how to edit files directly on GitHub
